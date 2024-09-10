@@ -1,0 +1,49 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important; }
+
+.green {
+  border: 1px solid green; }
+
+.red {
+  border: 1px solid red; }
+
+.banner {
+  border: 1px solid red;
+  height: 100%;
+  width: 100%;
+  background: url(./anh.jpg) center center no-repeat;
+  background-size: cover; }
+  .banner .about-sign-in {
+    height: 80px;
+    width: 100%;
+    text-align: right; }
+    .banner .about-sign-in .about,
+    .banner .about-sign-in .sign-in {
+      margin-top: 20px;
+      padding: 7px 15px;
+      text-decoration: none;
+      display: inline-block;
+      text-transform: uppercase; }
+    .banner .about-sign-in .logo {
+      height: 200px;
+      width: 100%;
+      margin-top: 10%;
+      background: url(./bo-font-chu-dep.jpg) center center no-repeat; }
+    .banner .about-sign-in .text {
+      text-align: center;
+      margin-top: 20px; }
+    .banner .about-sign-in .btn-star-now {
+      text-align: center; }
+    .banner .about-sign-in .content-center {
+      height: 50px; }
+    .banner .about-sign-in button {
+      text-transform: uppercase;
+      padding: 5px;
+      border-radius: 20px;
+      border: 1px solid green;
+      margin-top: 20px;
+      padding: 20px;
+      cursor: pointer; }
+
+/*# sourceMappingURL=cusstom.css.map */

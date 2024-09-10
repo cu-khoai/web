@@ -1,0 +1,9 @@
+body{margin:0!important;padding:0!important}
+.green{border:1px solid green}
+.red{border:1px solid red}
+.banner{border:1px solid red;height:100%;width:100%;background:url(anh.jpg?2409101632) center center no-repeat;background-size:cover;width:100%;text-align:right;padding:7px 15px;text-decoration:none;display:inline-block;text-transform:uppercase}
+.logo{height:200px;width:100%;margin-top:10%;background:url(bo-font-chu-dep.jpg?2409101632) center center no-repeat}
+.text{text-align:center;margin-top:20px}
+.btn-star-now{text-align:center}
+.content-center{height:50px}
+button{text-transform:uppercase;padding:5px;border-radius:20px;border:1px solid green;margin-top:20px;padding:20px;cursor:pointer}
